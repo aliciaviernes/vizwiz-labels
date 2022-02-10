@@ -1,3 +1,4 @@
 paths.py
 glove*
 *.csv
+__pycache__
