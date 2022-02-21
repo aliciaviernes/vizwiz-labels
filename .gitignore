@@ -1,4 +1,9 @@
-paths.py
-glove*
-*.csv
 __pycache__
+glove
+.ipynb_checkpoints
+*.csv
+outputs/**
+*.txt
+*.jpg
+.DS_Store
+paths.py
