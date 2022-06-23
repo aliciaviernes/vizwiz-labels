@@ -2,6 +2,7 @@ __pycache__
 glove
 .ipynb_checkpoints
 *.csv
+*.json
 outputs/**
 *.txt
 *.jpg
