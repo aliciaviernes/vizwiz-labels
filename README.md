@@ -10,3 +10,8 @@ Step 2: `similarity.ipynb`
 
 - Word embeddings are extracted (GloVe) and phrase embeddings (if a Keyword is phrasal) are calculated (averaged)
 - The Keywords are clustered. We used 20 clusters in total.
+
+
+Step 3: `classification.ipynb`
+
+Work in progress.
